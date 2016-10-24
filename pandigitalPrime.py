@@ -1,0 +1,4 @@
+# Pandigital prime(41)
+#
+
+
